@@ -11,7 +11,7 @@ Recursion
 Strings
 Object-Oriented Programming (OOP)
 Sorting & Searching Algorithms
-Stacks & Queues
+Stacks
 And more!
 
 Getting Started 💡
